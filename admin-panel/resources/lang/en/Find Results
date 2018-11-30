@@ -1,0 +1,10 @@
+Searching 34383 files for "These credentials do not match our records"
+
+C:\xampp\htdocs\9brainz\laravel-crud\resources\lang\en\auth.php:
+   14      */
+   15  
+   16:     'failed' => 'User Name Or Password Incorrect.',
+   17      'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+   18  
+
+1 match in 1 file
